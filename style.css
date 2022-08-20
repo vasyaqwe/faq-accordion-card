@@ -91,7 +91,7 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
     background-image: var(--gradient);
     background-size: 300%;
-    animation: bg-animation 10s infinite alternate;
+    animation: bg-animation 5s infinite alternate;
     display: grid;
     place-items: center;
     position: relative;
@@ -223,7 +223,7 @@ body {
         background-image: url('images/bg-pattern-desktop.svg');
         background-repeat: no-repeat;
         background-size: 205%;
-        background-position: right -320px;
+        background-position: -528px -340px;
     }
 
     .card__img--cube {
