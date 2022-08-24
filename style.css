@@ -164,7 +164,7 @@ body {
     max-width: 40%;
     top: 100px;
     left: 0;
-    animation: float cubic-bezier(.68, -0.55, .27, 1.55) 1.5s infinite alternate
+    animation: float cubic-bezier(.68, -0.55, .27, 1.55) 1.5s infinite alternate;
 }
 
 .col2 {
