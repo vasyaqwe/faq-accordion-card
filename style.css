@@ -40,13 +40,9 @@ html:focus-within {
     scroll-behavior: smooth;
 }
 
-html,
-body {
-    height: 100%;
-}
-
 /* Set core body defaults */
 body {
+    min-height: 100vh;
     text-rendering: optimizeSpeed;
     line-height: 1.5;
 }
@@ -229,7 +225,7 @@ body {
     .card__img--cube {
         max-width: 100%;
         top: 210px;
-        left: -93px;
+        left: -91px;
     }
 
     .col2 {
